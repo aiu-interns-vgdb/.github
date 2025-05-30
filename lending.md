@@ -1,5 +1,7 @@
 Список на лендинги [источник](https://docs.google.com/spreadsheets/d/113aP8hyIQlOTl46fpcBXXFAe0mNpdNhltt3xJydrQw0/edit?usp=sharing)
 
+Создание системы ИИ-автоматизации распознавания рукописных данных для диагностики (ООО «ВДГБ:ИТС»)
+
 ---
 
 ### **Александр Карев**
